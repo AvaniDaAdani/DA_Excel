@@ -1,0 +1,33 @@
+Row Labels,Sum of revenue,,,,,,,,,,,,,
+Beauty,765860.88,,Row Labels,Sum of quantity,,,,,,,,,Row Labels,Sum of delivery_days
+East,174909.11,,Beauty,2995,,,Row Labels,Sum of quantity,,Row Labels,Sum of customer_rating,,Card,13818
+North,186213.32,,Clothing,6171,,,East,4916,,Card,6849.4,,COD,10926
+South,191073.98,,Electronics,7109,,,Beauty,649,,COD,5219,,Wallet,5850
+West,213664.47,,Home,3949,,,Clothing,1618,,Wallet,2801.5,,Grand Total,30594
+Clothing,1531931.72,,Grand Total,20224,,,Electronics,1648,,Grand Total,14869.9,,,
+East,402582.6,,,,,,Home,1001,,,,,,
+North,364659.43,,,,,,North,5164,,,,,,
+South,348363.14,,,,,,Beauty,787,,,,,,
+West,416326.55,,,,,,Clothing,1503,,,,,,
+Electronics,1829899.22,,,,,,Electronics,1860,,,Row Labels,Sum of customer_id,,
+East,411803.35,,,,,,Home,1014,,,East,1847916,,
+North,472450.93,,,,,,South,4884,,,Beauty,250235,,
+South,487055.68,,,,,,Beauty,745,,,Clothing,589289,,
+West,458589.26,,,,,,Clothing,1428,,,Electronics,630389,,
+Home,982083.92,,,,,,Electronics,1851,,,Home,378003,,
+East,246749.17,,,,,,Home,860,,,North,1921524,,
+North,258184.77,,,,,,West,5260,,,Beauty,292833,,
+South,220148.1,,,,,,Beauty,814,,,Clothing,565511,,
+West,257001.88,,,,,,Clothing,1622,,,Electronics,702042,,
+Grand Total,5109775.74,,,,,,Electronics,1750,,,Home,361138,,
+,,,,,,,Home,1074,,,South,1816928,,
+,,,,,,,Grand Total,20224,,,Beauty,255663,,
+,,,,,,,,,,,Clothing,552005,,
+,,,,,,,,,,,Electronics,688975,,
+,,,,,,,,,,,Home,320285,,
+,,,,,,,,,,,West,1942138,,
+,,,,,,,,,,,Beauty,291793,,
+,,,,,,,,,,,Clothing,595511,,
+,,,,,,,,,,,Electronics,656125,,
+,,,,,,,,,,,Home,398709,,
+,,,,,,,,,,,Grand Total,7528506,,
